@@ -6,7 +6,7 @@
 ## Takım Üyeleri
 - **Berkay Türk 221216049**
 
-## Takım Üyeleri
+## Ders Adı
 - **Mobil Programlamaya Giriş Dersi**
 
 ## Supervisor
